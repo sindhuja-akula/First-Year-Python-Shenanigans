@@ -4,7 +4,7 @@ My very first Python scripts! Keeping these messy first-year projects as a remin
 
 Welcome to the digital museum of my very first Python projects! 
 
-As a second-year engineering student shifting my focus toward Data Science and Machine Learning, I decided to dig up the code that started it all. This repository is a raw, unfiltered look at my early coding days—complete with questionable logic, wild loops, and a lot of passion.
+As a second-year engineering student shifting my focus toward Data Science and AI, I decided to dig up the code that started it all. This repository is a raw, unfiltered look at my early coding days—complete with questionable logic, wild loops, and a lot of passion.
 
 ## 📂 What's in the Archive?
 
